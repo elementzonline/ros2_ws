@@ -36,5 +36,12 @@ code .
 
 # Test the configuration
 
+```bash
+cd ros2_ws
+colcon build
+```
 
+Open the display.launch.py
 Under Run/Debug -> "Python Debugger Launch File"
+
+See if the breakpoint is hit
